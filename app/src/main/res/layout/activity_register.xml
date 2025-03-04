@@ -82,7 +82,7 @@
         android:layout_marginTop="20sp"
         android:text="SIGN UP"
         android:textAllCaps="false"
-        android:backgroundTint="@color/purple_500"
+        android:backgroundTint="@color/white"
         android:textColor="@android:color/white"
         app:cornerRadius="20dp"
         app:rippleColor="@color/teal_200"
