@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538095675364",
+    "project_id": "moodle-9bf2d",
+    "storage_bucket": "moodle-9bf2d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538095675364:android:9bfe96f398fdc34b6409f1",
+        "android_client_info": {
+          "package_name": "com.example.auth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlwhOlh2dfL5uTI2fe2oXGxqfgVlw6UnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
